@@ -8,3 +8,4 @@ Person_1 = Car("swift","maruti",18)
 
 print(Person_1.milage)
 print(Person_1.modle)
+print (1)
